@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Highly interested in UI designing<br>👯 On Internship at IBT<br>🤝 Looking for help with career guidance<br>🌱 I’m currently learning Fullstack Development<br>💬 Ask me about design concepts
+🔭 Highly interested in UI designing<br>🧑‍💻Developer at InkPen Erode<br>🤝 Clean UI<br>💬 Ask me about design concepts
 
 
 ## 🌐 Socials:
